@@ -22,9 +22,6 @@ This section of resource will introduce you to Python.
 
 - Course Link: [Python](https://www.kaggle.com/learn/python)
 
-- Course link: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science?utm_medium=email&utm_source=customerio&utm_id=5014133&utm_campaign=freeintrocourse)
-  
-**NOTE: Along with this Introduction to Python course, Introduction to R and Introduction to Sql courses are also free till 12 september 2021. Hurry up! If you want to learn.** 
 
 ---
   
